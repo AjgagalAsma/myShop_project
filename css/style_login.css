@@ -1,0 +1,45 @@
+.con{
+    width: fit-content;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    padding: 5px;
+    margin: 0px 0 20px;
+    width: 300px;
+}
+
+form a {
+    color:rgb(56, 43, 34);
+    display: block;
+    margin: -10px 0px 0px 2px;
+}
+
+form a:hover {
+    color: #9452b8;
+}
+.submit:hover {
+    background-color: #9452b8;
+    color: white;
+    border-color:#9452b8;
+}
+
+h2 {
+    text-align: center;
+    margin: 0px 0px 27px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #67676738;
+}
+
+.error {
+    margin-top: 10px;
+}
