@@ -98,6 +98,8 @@ These images represent **only a subset of the application screens**, intended to
 > 🔎 **Note:** These screenshots are only a **partial preview** of the project.  
 > Additional interfaces and features are presented in the project report.
 
+---
+
 ## 🎥 Project Demo
 
 📌 **Canva Presentation:**  
@@ -106,6 +108,7 @@ These images represent **only a subset of the application screens**, intended to
 📌 **Project Report PDF:**  
 [Download PDF](docs/MyShop_Report.pdf)
 
+---
 
 ## ⚙️ Local Installation Guide
 
