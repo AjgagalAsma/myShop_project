@@ -67,28 +67,23 @@ These images represent **only a subset of the application screens**, intended to
   <img src="screens/homepage.png" alt="MyShop Home Page" width="600"/>
 </p>
 
----
-
 #### 📄 Product Details Page
 <p align="center">
   <img src="screens/details.png" alt="Product Details Page" width="600"/>
 </p>
 
----
 
 #### 🛒 Shopping Cart
 <p align="center">
   <img src="screens/cart.png" alt="Shopping Cart" width="600"/>
 </p>
 
----
 
 #### 💳 Checkout Page
 <p align="center">
   <img src="screens/checkout.png" alt="Checkout Page" width="600"/>
 </p>
 
----
 
 #### 📊⚙️ Admin Dashboard – Overview
 <p align="center">
@@ -105,7 +100,7 @@ These images represent **only a subset of the application screens**, intended to
 
 ## 🎥 Project Demo
 
-📌 **Canva Presentation (View Only):**  
+📌 **Canva Presentation:**  
 [View Presentation](https://www.canva.com/design/DAFe-qcmaqc/pW2SS3TBNrQR5wfAR84fTA/edit?utm_content=DAFe-qcmaqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 📌 **Project Report PDF:**  
