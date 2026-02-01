@@ -116,23 +116,22 @@ Follow these steps to run MyShop locally using **Laragon**:
 git clone https://github.com/AjgagalAsma/myShop_project.git
 ```
 ### 2️⃣ Place the project in Laragon directory
-Copy or move the project folder `myShop_project` to:
-C:\laragon\www\myShop_project
+- Copy or move the project folder `myShop_project` to: C:\laragon\www\myShop_project
 
 ### 3️⃣ Start Laragon services
 - Open Laragon
 - Click Start All (Apache + MySQL)
 
 ### 4️⃣ Create the database
-Open phpMyAdmin:
+- Open phpMyAdmin:
 http://localhost/phpmyadmin
 
-Create a new database : ecommerce
+- Create a new database : ecommerce
 
-Import the SQL file (located in /db/ecommerce.sql)
+- Import the SQL file (located in /db/ecommerce.sql)
 
 ### 6️⃣ Run the application
-Open the project in your browser:
+- Open the project in your browser:
 http://localhost/myShop_project/
 
 ### 7️⃣ Application Navigation
