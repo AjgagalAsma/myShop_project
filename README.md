@@ -1,28 +1,30 @@
-# 🛒 MyShop — Dynamic E-commerce Web Platform
+# 🛒 MyShop — Wall Stickers E-Commerce Web Platform
 
-**MyShop** is a web-based e-commerce platform designed to simplify online shopping and product management for both customers and administrators.  
-The platform provides an intuitive interface for browsing products, managing orders, and processing payments securely via PayPal.  
+**MyShop** is a web-based e-commerce platform dedicated to the online sale of **wall stickers and decorative decals**.  
+It is designed to simplify the shopping experience for customers while providing administrators with efficient tools to manage products, orders, and payments.
 
-Our mission: **create a seamless online shopping experience while providing powerful tools for store management.**
+The platform offers an intuitive interface for browsing **sticker collections**, viewing detailed designs, and completing secure purchases via **PayPal**.
+
+Our mission: **make wall decoration accessible through a smooth and reliable online shopping experience.**
 
 ---
 
 ## 🚀 Key Features
 
-MyShop offers multiple modules, designed to improve both customer and admin experiences.
+MyShop is composed of multiple modules focused on both customer usability and store management.
 
 ---
 
-### 🛍 Customer Interface
+### 🛍 Customer Interface (Wall Stickers Store)
 
-- **Purpose:** Allow users to browse products, manage accounts, and complete purchases.  
+- **Purpose:** Enable customers to explore, select, and purchase wall stickers online.  
 - **Key Features:**  
-  - Homepage with product listings and categories  
-  - Product details pages  
-  - Login & registration system  
-  - Cart & wishlist management  
-  - Checkout with PayPal payment integration  
-  - Order history and account management  
+  - Homepage showcasing featured wall stickers and categories  
+  - Detailed product pages with sticker designs and descriptions  
+  - User registration and authentication  
+  - Shopping cart and wishlist for favorite stickers  
+  - Secure checkout with PayPal payment integration  
+  - Order tracking and customer account management  
 
 ---
 
